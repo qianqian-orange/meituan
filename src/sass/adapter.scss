@@ -1,0 +1,7 @@
+@each $item in $adapterDeviceList {
+  @media screen and (min-width: #{$item}px) {
+    html {
+      font-size: calc(#{$baseFontSize} / #{$psdWidth} * #{$item});
+    }
+  }
+}

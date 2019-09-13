@@ -1,0 +1,15 @@
+@mixin clearFix {
+  &::after, &::before {
+    content: '';
+    visibility: hidden;
+    display: block;
+    clear: both;
+  }
+}
+
+@mixin picture($url) {
+  background-image: url($url);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}

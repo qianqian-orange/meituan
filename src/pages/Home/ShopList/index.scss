@@ -1,0 +1,93 @@
+@mixin star {
+  display: inline-block;
+  min-width: 0.25rem;
+  height: 0.25rem;
+  background-image: url('./img/star.png');
+  background-repeat: no-repeat;
+  background-size: 126% 379%;
+}
+
+@mixin line-through {
+  content: '';
+  display: inline-block;
+  width: 1.2rem;
+  height: 1px;
+  background-color: #ccc;
+  vertical-align: middle;
+}
+
+.title {
+  font-size: 0.32rem;
+  margin-top: 0.4rem;
+  margin-bottom: 0.2rem;
+  line-height: 1;
+  text-align: center;
+  &::before {
+    @include line-through;
+    margin-right: 0.1rem;
+  }
+  &::after {
+    @include line-through;
+    margin-left: 0.1rem;
+  }
+}
+
+.item {
+  margin: 0.1rem 0 0.5rem 0;
+  padding: 0 0.2rem;
+  display: flex;
+  img {
+    width: 1.52rem;
+    height: 1.14rem;
+  }
+  .content {
+    flex-grow: 1;
+    padding-left: 0.2rem;
+    .shopName {
+      margin: 0;
+      font-size: 0.32rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      width: 80%;
+    }
+    p {
+      font-size: 0.24rem;
+      margin-top: 0.1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .activeStarContainer {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+    }
+    .activeStar {
+      @include star;
+      background-position: 40% 5.66%;
+    }
+    .greyStar {
+      @include star;
+      background-position: 40% 96.226%;
+    }
+    .source {
+      margin-left: 0.1rem;
+    }
+    .sell {
+      margin-left: 0.2rem;
+    }
+    .activity {
+      justify-content: flex-start;
+      img {
+        width: 0.32rem;
+        height: 0.32rem;
+        margin-right: 0.1rem;
+      }
+    }
+  }
+}

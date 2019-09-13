@@ -1,0 +1,468 @@
+[
+  {
+    "mtWmPoiId": "849807713620933",
+    "shopName": "丰顺捆粄、肠粉店",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售&#xea66;&#xf28d;&#xe1df;&#xe041;",
+    "picUrl": "http://p0.meituan.net/waimaipoi/92f10842a285b9946758ff86321b0d0925401.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe688;&#xe1df;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xf48a;",
+    "shippingFeeTip": "配送 ¥&#xe688;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xeded;.&#xe1df;km",
+    "averagePriceTip": "人均 ¥&#xea66;&#xf48a;",
+    "address": "河南岸金湖路115号后楼门店房（万顺家对面路口）",
+    "shipping_time": "06:15-18:00"
+  },
+  {
+    "mtWmPoiId": "1117659054037814",
+    "shopName": "咸骨粥爽滑饺子王（惠大店）",
+    "wmPoiScore": 49,
+    "monthSalesTip": "月售&#xe688;&#xe041;&#xe041;",
+    "picUrl": "http://p1.meituan.net/waimaipoi/6b25db56367f059aca26e0c72dbb4043241338.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe1c4;&#xe1df;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xe041;",
+    "shippingFeeTip": "配送 ¥&#xe1df;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xf48a;&#xedd9;&#xe041;m",
+    "averagePriceTip": "",
+    "shippingTimeInfo": {
+      "statusContent": "接受预订",
+      "descContent": "10:00后配送",
+      "reservationStatus": 0
+    },
+    "discounts2": [
+      {
+        "info": "满&#xea66;&#xf48a;减&#xea66;",
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "promotionType": 2,
+        "activityId": 2
+      },
+      {
+        "info": "折扣商品&#xe1c4;.&#xe688;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      },
+      {
+        "info": "满&#xea66;&#xe041;元赠送饮料&#xea66;份",
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "promotionType": 2,
+        "activityId": 5
+      }
+    ],
+    "address": "惠州市河南岸马庄河二村村口第二间商铺",
+    "shipping_time": "10:00-13:30,16:00-22:59"
+  },
+  {
+    "mtWmPoiId": "924583094247527",
+    "shopName": "爱尚麻辣烫（中苑食堂店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售&#xf28d;&#xe1c4;&#xe1df;",
+    "picUrl": "http://p0.meituan.net/waimaipoi/0c5590ee9da6e0941f7ad8f4c8e87048205016.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xf48a;&#xf48a;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xeded;",
+    "shippingFeeTip": "配送 ¥&#xe1df;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xea66;&#xe7bb;&#xe688;m",
+    "averagePriceTip": "人均 ¥&#xe7bb;",
+    "shippingTimeInfo": {
+      "statusContent": "接受预订",
+      "descContent": "10:25后配送",
+      "reservationStatus": 0
+    },
+    "discounts2": [
+      {
+        "info": "满&#xea66;&#xeded;减&#xe688;;满&#xea66;&#xe041;减&#xf48a;;满&#xeded;&#xe1df;减&#xf28d;",
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "promotionType": 2,
+        "activityId": 2
+      },
+      {
+        "info": "折扣商品&#xe1c4;.&#xedd9;&#xe041;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      }
+    ],
+    "address": "河南岸马庄村河二小组38号（仅限办公）中苑饭堂三楼",
+    "shipping_time": "10:25-13:10,16:20-19:10"
+  },
+  {
+    "mtWmPoiId": "942518877631535",
+    "shopName": "好食惠快餐店",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售&#xea66;&#xe1c4;&#xeded;&#xe1df;",
+    "picUrl": "http://p1.meituan.net/waimaipoi/9f68889806f2954ba901d8100e23bfba119348.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe1c4;&#xe1df;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xf48a;",
+    "shippingFeeTip": "配送 ¥&#xeded;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xea66;.&#xe7bb;km",
+    "averagePriceTip": "人均 ¥&#xea66;&#xe7bb;",
+    "shippingTimeInfo": {
+      "statusContent": "接受预订",
+      "descContent": "10:00后配送",
+      "reservationStatus": 0
+    },
+    "discounts2": [
+      {
+        "info": "折扣商品&#xedd9;.&#xedd9;&#xf28d;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      }
+    ],
+    "address": "河南岸马庄上一小组老村34号",
+    "shipping_time": "10:00-14:30,16:00-21:15"
+  },
+  {
+    "mtWmPoiId": "1020661512618708",
+    "shopName": "华莱士炸鸡汉堡(上马庄)",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售&#xe1c4;&#xf48a;&#xe688;&#xeded;",
+    "picUrl": "http://p0.meituan.net/waimaipoi/2a3954d322b7b4fa7b82b1c0e58770a311192.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe1c4;&#xe1df;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xeded;&#xe1df;",
+    "shippingFeeTip": "配送 ¥&#xeded;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xeded;.&#xe688;km",
+    "averagePriceTip": "人均 ¥&#xeded;&#xea66;",
+    "shippingTimeInfo": {
+      "statusContent": "接受预订",
+      "descContent": "09:00后配送",
+      "reservationStatus": 0
+    },
+    "discounts2": [
+      {
+        "info": "满&#xeded;&#xe041;减&#xedd9;;满&#xe1c4;&#xe1df;减&#xea66;&#xe1df;;满&#xf48a;&#xf48a;减&#xea66;&#xeded;",
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "promotionType": 2,
+        "activityId": 2
+      },
+      {
+        "info": "折扣商品&#xe688;.&#xe7bb;&#xe041;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      },
+      {
+        "info": "本店支持开发票，开票金额&#xf48a;&#xe1df;元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": -2
+      }
+    ],
+    "address": "惠城区上马庄金湖路149号",
+    "shipping_time": "00:00-03:00,09:00-23:59"
+  },
+  {
+    "mtWmPoiId": "943425115737526",
+    "shopName": "叁寻便当(烧腊炖盅)",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售&#xf48a;&#xe688;&#xea66;&#xe041;",
+    "picUrl": "http://p0.meituan.net/business/600d2f61b5e78f7800af6c26a4f69f5522945.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe1c4;&#xe1df;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xe1df;",
+    "shippingFeeTip": "配送 ¥&#xeded;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xeded;.&#xe688;km",
+    "averagePriceTip": "人均 ¥&#xea66;&#xf48a;",
+    "shippingTimeInfo": {
+      "statusContent": "接受预订",
+      "descContent": "10:00后配送",
+      "reservationStatus": 0
+    },
+    "discounts2": [
+      {
+        "info": "满&#xe1c4;减&#xe1c4;;满&#xe688;&#xeded;减&#xe7bb;;满&#xe1c4;&#xe041;减&#xea66;&#xf48a;",
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "promotionType": 2,
+        "activityId": 2
+      },
+      {
+        "info": "折扣商品&#xea66;.&#xea66;&#xea66;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      },
+      {
+        "info": "实际支付&#xea66;元返&#xf28d;元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 100
+      }
+    ],
+    "address": "河南岸马庄村上二小组老村73号（上马庄华莱士后面横巷）",
+    "shipping_time": "00:00-01:00,10:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1035157027286331",
+    "shopName": "正宗重庆小面",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售&#xedd9;&#xeded;&#xe7bb;",
+    "picUrl": "http://p0.meituan.net/business/678bd1cf398b20dac9f3ee071f04207a10915.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe1c4;&#xe1df;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xe1df;",
+    "shippingFeeTip": "配送 ¥&#xea66;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xea66;.&#xe041;km",
+    "averagePriceTip": "人均 ¥&#xea66;&#xeded;",
+    "shippingTimeInfo": {
+      "statusContent": "接受预订",
+      "descContent": "10:05后配送",
+      "reservationStatus": 0
+    },
+    "discounts2": [
+      {
+        "info": "折扣商品&#xedd9;.&#xedd9;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      }
+    ],
+    "address": "惠州市河南岸马庄上一组老村马庄村委会旁",
+    "shipping_time": "10:05-13:15,16:05-19:20"
+  },
+  {
+    "mtWmPoiId": "1087890635695638",
+    "shopName": "杭州小笼包炖汤馆",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售&#xf48a;&#xe7bb;&#xe1c4;",
+    "picUrl": "http://p1.meituan.net/waimaipoi/84703b15c71d759fddb434e5df9ddff828672.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe688;&#xf48a;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xf48a;",
+    "shippingFeeTip": "配送 ¥&#xe688;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xe688;.&#xeded;km",
+    "averagePriceTip": "人均 ¥&#xea66;&#xe041;",
+    "discounts2": [
+      {
+        "info": "满&#xeded;&#xf48a;减&#xe688;;满&#xe1c4;&#xf48a;减&#xedd9;;满&#xe041;&#xe1df;减&#xea66;&#xe1df;",
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "promotionType": 2,
+        "activityId": 2
+      },
+      {
+        "info": "领&#xeded;元券;领&#xedd9;元券",
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "promotionType": 2,
+        "activityId": 103
+      }
+    ],
+    "address": "惠州市河南岸16号小区怡景华庭AB栋1层16号",
+    "shipping_time": "06:00-21:30"
+  },
+  {
+    "mtWmPoiId": "1118664076396763",
+    "shopName": "潮味原味汤粉",
+    "wmPoiScore": 42,
+    "monthSalesTip": "月售&#xf48a;&#xea66;&#xe1df;&#xea66;",
+    "picUrl": "http://p0.meituan.net/waimaipoi/5df3094c25424cab99d01699d47d08ad73969.png",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe688;&#xedd9;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xf48a;",
+    "shippingFeeTip": "配送 ¥&#xeded;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xeded;.&#xe688;km",
+    "averagePriceTip": "人均 ¥&#xea66;&#xedd9;",
+    "discounts2": [
+      {
+        "info": "满&#xeded;&#xe1df;减&#xea66;;满&#xe1c4;&#xe1df;减&#xeded;",
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "promotionType": 2,
+        "activityId": 2
+      },
+      {
+        "info": "折扣商品&#xe7bb;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      }
+    ],
+    "address": "河南岸街道冰塘村小塘组80号（往翡翠欧庭方向宝华乐超市往前100米右转原味汤粉店）",
+    "shipping_time": "00:00-01:00,07:51-13:40,16:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1108978925152038",
+    "shopName": "堕落小龙虾(海鲜·虾尾·华章店)",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售&#xea66;&#xe1df;&#xe041;&#xeded;",
+    "picUrl": "http://p0.meituan.net/business/b025c82feb0709aaa0db2a8de478381d82317.png",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe1c4;&#xe1df;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xf48a;&#xe1df;",
+    "shippingFeeTip": "配送 ¥&#xeded;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xea66;.&#xf48a;km",
+    "averagePriceTip": "人均 ¥&#xedd9;&#xe688;",
+    "discounts2": [
+      {
+        "info": "满&#xe1c4;&#xe7bb;减&#xea66;&#xe1df;;满&#xf28d;&#xe7bb;减&#xeded;&#xeded;;满&#xea66;&#xf48a;&#xe7bb;减&#xe688;&#xe7bb;;满&#xeded;&#xe7bb;&#xe7bb;减&#xedd9;&#xe1df;",
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "promotionType": 2,
+        "activityId": 2
+      },
+      {
+        "info": "折扣商品&#xe1df;.&#xedd9;&#xf28d;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      },
+      {
+        "info": "领&#xe688;元券;领&#xea66;&#xeded;元券;领&#xeded;&#xedd9;元券",
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "promotionType": 2,
+        "activityId": 103
+      },
+      {
+        "info": "实际支付&#xea66;元返&#xe041;元商家代金券",
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "promotionType": 2,
+        "activityId": 100
+      },
+      {
+        "info": "本店支持开发票，开票金额&#xe1df;元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": -2
+      }
+    ],
+    "address": "惠州市惠城区河南岸金山道202号诗意花园8、9、10栋1层03号",
+    "shipping_time": "00:00-01:00,08:00-23:59"
+  },
+  {
+    "mtWmPoiId": "1043347529894031",
+    "shopName": "华莱士炸鸡汉堡（河南岸车站店）",
+    "wmPoiScore": 45,
+    "monthSalesTip": "月售&#xf48a;&#xea66;&#xe7bb;&#xeded;",
+    "picUrl": "http://p0.meituan.net/waimaipoi/2a3954d322b7b4fa7b82b1c0e58770a311192.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe688;&#xe7bb;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xf48a;",
+    "shippingFeeTip": "配送 ¥&#xe1c4;.&#xf48a;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xe1c4;.&#xe1df;km",
+    "averagePriceTip": "人均 ¥&#xeded;&#xeded;",
+    "discounts2": [
+      {
+        "info": "满&#xe688;&#xe1df;减&#xeded;&#xea66;;满&#xf48a;&#xf48a;减&#xeded;&#xe041;;满&#xea66;&#xe1df;&#xe1df;减&#xf48a;&#xe1df;",
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "promotionType": 2,
+        "activityId": 2
+      },
+      {
+        "info": "折扣商品&#xf48a;折起",
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "promotionType": 2,
+        "activityId": 17
+      },
+      {
+        "info": "本店支持开发票，开票金额&#xf48a;&#xe1df;元起",
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "promotionType": 2,
+        "activityId": -2
+      }
+    ],
+    "address": "惠州市惠城区河南岸大廊肚2号（河南岸汽车站公交站旁）",
+    "shipping_time": "00:00-02:00,07:05-23:59"
+  },
+  {
+    "mtWmPoiId": "1102751222592086",
+    "shopName": "茂常堂梅县腌面",
+    "wmPoiScore": 43,
+    "monthSalesTip": "月售&#xea66;&#xea66;&#xedd9;&#xf48a;",
+    "picUrl": "http://p1.meituan.net/waimaipoi/f1b2944432ae3c3e3983858504fcfb4d278528.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe1c4;&#xe1df;分钟",
+    "deliveryType": 1,
+    "minPriceTip": "起送 ¥&#xea66;&#xf48a;",
+    "shippingFeeTip": "配送 ¥&#xe1c4;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xf48a;.&#xe688;km",
+    "averagePriceTip": "人均 ¥&#xea66;&#xf48a;",
+    "address": "惠州市河南岸34号小区第六栋一层24商场",
+    "shipping_time": "07:00-21:00"
+  },
+  {
+    "mtWmPoiId": "1102476344673867",
+    "shopName": "元味（东江学府店）",
+    "wmPoiScore": 44,
+    "monthSalesTip": "月售&#xea66;&#xf28d;&#xe041;&#xe1c4;",
+    "picUrl": "http://p1.meituan.net/waimaipoi/63c619b410384c485bbad6fbb48d59e035439.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe688;&#xe7bb;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xeded;&#xe1df;",
+    "shippingFeeTip": "配送 ¥&#xe688;.&#xf48a;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xe688;.&#xea66;km",
+    "averagePriceTip": "人均 ¥&#xeded;&#xeded;",
+    "address": "河南岸学府路2号东江学府308栋1单元1层07号",
+    "shipping_time": "08:30-21:20"
+  },
+  {
+    "mtWmPoiId": "1109322522515372",
+    "shopName": "永合兴河源猪脚王",
+    "wmPoiScore": 38,
+    "monthSalesTip": "月售&#xf48a;&#xf48a;&#xe1df;&#xe041;",
+    "picUrl": "http://p0.meituan.net/waimaipoi/7f11a603c1691d19c48449c1d13b88ec180224.jpg",
+    "poiTypeIcon": "",
+    "deliveryTimeTip": "&#xe1c4;&#xe1df;分钟",
+    "deliveryType": 0,
+    "minPriceTip": "起送 ¥&#xea66;&#xf48a;",
+    "shippingFeeTip": "配送 ¥&#xedd9;",
+    "origin_shipping_fee_tip": "",
+    "status": 1,
+    "statusDesc": "",
+    "distance": "&#xe1c4;.&#xe041;km",
+    "averagePriceTip": "人均 ¥&#xeded;&#xea66;",
+    "address": "惠州市河南岸牛和地14号小区第一层8号",
+    "shipping_time": "00:00-03:00,07:00-14:00,17:00-23:59"
+  }
+]

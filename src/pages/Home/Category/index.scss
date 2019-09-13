@@ -1,0 +1,22 @@
+.root {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 1rem;
+  .category {
+    display: flex;
+    flex-basis: 20%;
+    height: 1.6rem;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    img {
+      width: 0.88rem;
+      height: 0.88rem;
+    }
+    span {
+      margin-top: 0.1rem;
+      color: #333;
+      font-size: 0.28rem;
+    }
+  }
+}
